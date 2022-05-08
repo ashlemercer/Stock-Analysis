@@ -128,6 +128,8 @@ After running our code, we found that the stocks ENPH and RUN are the only two t
 
 
 ## Summary
+
+### Pros and Cons
 Refactoring our code allowed for our macros to run quicker, and it cleaned up the code aesethically to make it easier to read and navigate through. This allows errors to be more easily found and fixed, and for others to understand our code easier. One con however would be the tedious nature of refactoring the original code. Renaming and filling in the new information can lead to easy slipups and misplacing of information.
 
 Below are the elapsed times for our Macros, both of which ran faster than the original VBA code which was first running at about .09 and .08. As you can see, we cut that time down significantly and yielded more information.
